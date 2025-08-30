@@ -24,3 +24,12 @@ added the icons and images into the public folder.
 wrote app.css
 basic project setup done.
 
+***********************************************************************
+now we go to app -> routes -> home.tsx
+changed title to Papertrail
+removed the welcome page and added the main page
+so now i also deleted the welcome folder
+
+okay now reloaded the site 
+and now i am back to a completely blank page
+to make it not so blank render a new section in it 
